@@ -1,6 +1,6 @@
 # switchuser
 
-NOTE: You should use `C:\Windows\System32\tsdiscon.exe` in general case.
+NOTE: You may use `C:\Windows\System32\tsdiscon.exe` in general cases.
 
 ## License
 
